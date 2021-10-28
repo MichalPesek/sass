@@ -6,11 +6,11 @@ Pokyny zněly takto...
 Prostudujte si SASS třeba na https://sass-lang.com/.
 Vytvořte webovou one-page stránku (např. vizitka), kde k designu využijete právě SASS.
 V SASS bude použito:
-  Moduly
-  Proměnné
-  Vnořování
-  Mixiny
-  Operátory
+  -Moduly
+  -Proměnné
+  -Vnořování
+  -Mixiny
+  -Operátory
 CSS generované z SASS bude jeden soubor style.min.css.
 
 Odevzdávejte jako odkaz na GITHUB s vaším úkolem.
