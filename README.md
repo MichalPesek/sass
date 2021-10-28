@@ -11,7 +11,7 @@ V SASS bude použito:
   -Vnořování
   -Mixiny
   -Operátory
-CSS generované z SASS bude jeden soubor style.min.css.
+| CSS generované z SASS bude jeden soubor style.min.css.
 
 Odevzdávejte jako odkaz na GITHUB s vaším úkolem.
 Inspirovat se můžete např: https://github.com/bubilem/web-frontend-examples
